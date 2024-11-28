@@ -68,7 +68,20 @@ The objective of this project is to develop a robust collaborative filtering mod
 2. Includes user demographics (age, gender, occupation, zip code) and movie genres (19 categories, multi-genre possible).
 3. Collected between September 1997 and April 1998, with all users rating at least *20* movies.
 
-For full details and citation guidelines, visit the GroupLens-website(https://files.grouplens.org/datasets/movielens/ml-100k-README.txt).
+For full details and citation guidelines, visit the [GroupLens-website](https://files.grouplens.org/datasets/movielens/ml-100k-README.txt).
 
 ---
-   
+
+### **Resources**
+
+**Research Paper**
+
+[https://www.sciencedirect.com/science/article/pii/S0957417424005669](https://www.sciencedirect.com/science/article/pii/S0957417424005669)
+
+**Dataset**
+
+[https://grouplens.org/datasets/movielens/100k/](e https://grouplens.org/datasets/movielens/100k/)
+
+**Other**
+
+[https://dl.acm.org/doi/10.1145/2827872](https://dl.acm.org/doi/10.1145/2827872)
