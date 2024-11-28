@@ -55,5 +55,6 @@ The objective of this project is to develop a robust collaborative filtering mod
    pip install numpy pandas scipy scikit-learn tqdm matplotlib
    ```
 3. **Download Dataset**
-   [https://grouplens.org/datasets/movielens/100k/](#https://grouplens.org/datasets/movielens/100k/)
+   
+   [https://grouplens.org/datasets/movielens/100k/](https://grouplens.org/datasets/movielens/100k/)
    
