@@ -23,8 +23,37 @@ The objective of this project is to develop a robust collaborative filtering mod
 
 ### **Project Workflow**
 
-1. **Data Preparation**: Combine training and testing data from multiple folds into single comprehensive datasets.  
-2. **Similarity Computation**: Calculate similarity models between users.  
-3. **Visualization**: Generate heatmaps to illustrate the computed similarity matrix.  
-4. **Model Evaluation**: Analyze the workflow's effectiveness in handling sparse data without generating actual recommendations.  
 
+1. **Data Preparation**:  
+   - Combine multiple training and testing folds into single unified datasets.  
+   - Ensure the data is clean, structured, and ready for analysis.  
+
+2. **Similarity Computation**:  
+   - Compute user similarity using a mix of traditional, advanced, and hybrid models.   
+   - Generate comprehensive similarity matrices for analysis.  
+
+3. **Visualization**:  
+   - Create heatmaps to visually represent user similarities and patterns.  
+   - Leverage visual insights to validate and refine similarity computations.  
+
+4. **Model Evaluation**:  
+   - Evaluate the effectiveness of similarity models using metrics such as MAE, RMSE, and F1-score.  
+   - Compare model performance across different datasets and scenarios to ensure accuracy and robustness.
+  
+---
+
+### **Installation and Setup**
+
+1. **Clone the Repository**
+   ```bash
+   git clone <repository_url>
+   cd <repository_directory>
+   ```
+2. **Install Dependencies**
+   Use the following commands to install required libraries:
+   ```bash
+   pip install numpy pandas scipy scikit-learn tqdm matplotlib
+   ```
+3. **Download Dataset**
+   [https://grouplens.org/datasets/movielens/100k/](#https://grouplens.org/datasets/movielens/100k/)
+   
