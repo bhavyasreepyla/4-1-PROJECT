@@ -57,4 +57,18 @@ The objective of this project is to develop a robust collaborative filtering mod
 3. **Download Dataset**
    
    [https://grouplens.org/datasets/movielens/100k/](https://grouplens.org/datasets/movielens/100k/)
+
+---
+
+### **Dataset Information**
+
+### The MovieLens 100k dataset contains:
+
+1. *100,000* ratings (1-5) from *943* users on *1,682* movies.
+2. Includes user demographics (age, gender, occupation, zip code) and movie genres (19 categories, multi-genre possible).
+3. Collected between September 1997 and April 1998, with all users rating at least *20* movies.
+
+For full details and citation guidelines, visit the GroupLens-website(https://files.grouplens.org/datasets/movielens/ml-100k-README.txt).
+
+---
    
