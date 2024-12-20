@@ -85,3 +85,11 @@ For full details and citation guidelines, visit the [GroupLens-website](https://
 **Other**
 
 [https://dl.acm.org/doi/10.1145/2827872](https://dl.acm.org/doi/10.1145/2827872)
+
+---
+
+**REPORT LINK**
+[https://docs.google.com/document/d/1CDATvv6jyErxKADJ8GaQNiYYol_iG2pgL4W2UZPMzBo/edit?usp=sharing](https://docs.google.com/document/d/1CDATvv6jyErxKADJ8GaQNiYYol_iG2pgL4W2UZPMzBo/edit?usp=sharing)
+
+**PRESENTATION LINK**
+[https://docs.google.com/presentation/d/1446n0OKok8TnMchGCli3rBwnQT6CTN7pScQL__1zs88/edit#slide=id.g3260bd81773_0_201](https://docs.google.com/presentation/d/1446n0OKok8TnMchGCli3rBwnQT6CTN7pScQL__1zs88/edit#slide=id.g3260bd81773_0_201)
